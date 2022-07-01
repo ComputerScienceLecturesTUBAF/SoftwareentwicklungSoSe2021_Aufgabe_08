@@ -1,8 +1,8 @@
-# SoftwareentwicklungSoSe2021 Aufgabe 08
+# SoftwareentwicklungSoSe2022 Aufgabe 08
 
 ## Bearbeitungzeit
 
-SWE: 5. Juli - 9. Juli 2021 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+SWE: 4. Juli - 8. Juli 2021 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
 ## Beiträge der Teammitglieder
 
