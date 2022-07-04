@@ -4,10 +4,6 @@
 
 SWE: 4. Juli - 8. Juli 2021 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
-## Beiträge der Teammitglieder
-
-![Zur Übersicht](https://raw.githubusercontent.com/<CI_REPOSITORY_OWNER>/<CI_REPOSITORY_NAME>/analytics/Contributions.png)
-
 ## Idee der Übung
 
 Das Aufgabenblatt ist der Implementierung einer generischen Collection am Beispiel der Klasse `Set` gewidmet. Die Methoden der Klasse sind außerdem mit Hilfe des Test-Frameworks `xUnit` zu testen.
