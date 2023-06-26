@@ -1,8 +1,8 @@
-# SoftwareentwicklungSoSe2022 Aufgabe 08
+# SoftwareentwicklungSoSe2023 Aufgabe 08
 
 ## Bearbeitungzeit
 
-SWE: 4. Juli - 8. Juli 2021 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+SWE: 3. Juli - 7. Juli 2023 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
 ## Idee der Übung
 
@@ -89,5 +89,7 @@ Geeignet wäre z.B. die "Stöckchen-Zahlen"-Klasse (s. Aufgabe 5.2), Sie können
 ## Hinweise zu `xUnit` und Klasse `Assert`
 
 [https://docs.microsoft.com/de-de/dotnet/core/testing/unit-testing-with-dotnet-test](https://docs.microsoft.com/de-de/dotnet/core/testing/unit-testing-with-dotnet-test)
+
+[https://github.com/xunit/assert.xunit](https://github.com/xunit/assert.xunit)
 
 
